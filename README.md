@@ -10,5 +10,14 @@
 <h2> How to Install </h2>
 
 
-<p> * bash install.sh *
-<p> * python Hak.py *
+
+```bash
+apt-get install curl
+apt-get install python
+apt-get install python2
+```
+<h1> or </h1>
+
+```bash
+bash install.sh
+```

@@ -20,4 +20,6 @@ apt-get install python2
 
 ```bash
 bash install.sh
+or with out using python u can do
+sh run.sh
 ```

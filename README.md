@@ -21,3 +21,7 @@ apt-get install python2
 ```bash
 bash install.sh
 ```
+<h1> or </h1>
+```bash
+sh run.sh
+```

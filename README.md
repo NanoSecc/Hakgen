@@ -1,10 +1,10 @@
-<h1> Hakgen 1.2V </h1>
+<h1> Hakgen 1.3V </h1>
 
 <p> 
 
 - Gens Invite codes for hackthebox
 
-- Version 1.2
+- Version 1.3
 
 
 <h2> How to Install </h2>
@@ -20,6 +20,4 @@ apt-get install python2
 
 ```bash
 bash install.sh
-or with out using python u can do
-sh run.sh
 ```
